@@ -1,3 +1,2 @@
-# A
-
-# B
+# About
+The purpose of this organization is to collect and make available app repositories that are the micro-services architectural semanthic counterpart of their monolithic versions.
